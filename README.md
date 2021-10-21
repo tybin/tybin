@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @tybin
+- 👀 I’m interested in Web-based mircoservices and virtualisation (althought I'm pretty resourcefull when it comes to UX/UI too!)
+- 🌱 I’m currently learning how to convert knowledge into skills
+- 💞️ I’m looking to collaborate on any kind of Python/PHP/ECMAScript project
+- 📫 Hit me up at https://tybin.dev/#contact-form
