@@ -1,2 +1,3 @@
 - 👋 Hi, I’m @tybin
 - 💞️ I’m looking to collaborate on any kind of Python/ECMAScript project
+- I'm more active on GitLab: https://gitlab.com/tybin
